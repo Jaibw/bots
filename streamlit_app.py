@@ -30,6 +30,6 @@ if user is not None:
     auth.createLogoutForm({'message': f"Welcome {user['displayName']}"}, callback=logout)
 
     # Your page application can be written below
-    st.write("# Welcome to my App! 👋")
+    st.write("# Welcome to my App! ... 👋")
     st.write(user)
 
