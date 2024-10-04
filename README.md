@@ -12,3 +12,5 @@
    ```
    $ streamlit run streamlit_app.py
    ```
+
+Now you can run your application 
